@@ -1,0 +1,26 @@
+# Node Modules
+node_modules
+
+# Build files
+build
+temp
+css
+public/dist
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+.tmproj
+*.esproj
+*.log
+typings
+.vscode
+.jsbeautifyrc
+.idea
+
+# Yarn
+yarn-error.log
+
+# JSDoc
+out
